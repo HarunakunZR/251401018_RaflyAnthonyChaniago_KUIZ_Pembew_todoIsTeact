@@ -14,8 +14,4 @@
 <img width="1327" height="632" alt="image" src="https://github.com/user-attachments/assets/76f5ebff-1db4-4ba4-ab4d-83dee9098208" />
 
 6.setelah kita Tekan "tambah" dia bakal ada Notifikasi "tugas di tambahkan" tapi kalo tekan tombol "Batal' tugasnya gak jadi bertambah
-<img width="1325" height="622" alt="image" src="https://github.com/user-attachments/assets/0136e5a6-6e7d-48f6-9338-59d79c861dc1" />
-
-
-
-
+<img width="1330" height="632" alt="image" src="https://github.com/user-attachments/assets/dea70e41-0ff3-4d3b-b8f7-142d1ba105b9" />
