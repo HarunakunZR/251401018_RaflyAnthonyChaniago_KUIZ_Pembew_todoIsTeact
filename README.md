@@ -15,3 +15,9 @@
 
 6.setelah kita Tekan "tambah" dia bakal ada Notifikasi "tugas di tambahkan" tapi kalo tekan tombol "Batal' tugasnya gak jadi bertambah
 <img width="1330" height="632" alt="image" src="https://github.com/user-attachments/assets/dea70e41-0ff3-4d3b-b8f7-142d1ba105b9" />
+
+7.Setelah kita kita bisa liat tugas mana yang kita tambahkan yaitu tekan tombol mata atau logo mata berwarna biru. dan kita bisa liat secara lengkap yanga ada di tugas tersebut. Judul,Deskripsi,Status,Prioritas dan Deadline  dan juga ada 2 tombol "kembali" dan juga tombol "Update". nah kalo kita tekan tombol "kembali" dia bakal tampilkan kek di gambar ke nomor 1. tapi kalo kita tekan "Update" dan tampilannya ke di tombol nomor 2
+<img width="1331" height="627" alt="image" src="https://github.com/user-attachments/assets/34f28788-5995-4585-b737-e912fd43b271" />
+
+
+# SEkIAN DAN TERIMA KASIH
